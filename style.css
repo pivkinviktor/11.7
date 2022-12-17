@@ -1,0 +1,14 @@
+
+table, td, th, h2 {
+    border: 1px solid black;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+
+th {
+
+    background-color: red;
+}
